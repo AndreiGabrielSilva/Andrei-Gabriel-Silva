@@ -126,7 +126,7 @@ Aprender ainda mais
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreiGabrielSilva/AndreiGabrielSilva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreiGabrielSilva/AndreiGabrielSilva/output/github-contribution-grid-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/AndreiGabrielSilva/AndreiGabrielSilva/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreiGabrielSilva/Andrei-Gabriel-Silva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreiGabrielSilva/Andrei-Gabriel-Silva/output/github-contribution-grid-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/AndreiGabrielSilva/Andrei-Gabriel-Silva/output/github-contribution-grid-snake.svg">
 </picture>
